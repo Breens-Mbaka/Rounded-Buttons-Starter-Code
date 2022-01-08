@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rounded Button</string>
+    <string name="sign_in_button_text">SIGN IN</string>
+    <string name="sign_up_button_text">SIGN UP</string>
+</resources>
